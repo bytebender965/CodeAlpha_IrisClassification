@@ -35,6 +35,3 @@ Seaborn, Matplotlib
 #Conclusion
 The Iris dataset is small and clean, making it easy to classify with simple machine learning models.  
 This project helped me understand the basics of **classification, model evaluation, and cross-validation**.  
-
----
-✨ Internship Project by [Your Name] for **CodeAlpha Data Science Internship**
